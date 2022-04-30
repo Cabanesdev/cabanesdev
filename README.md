@@ -1,5 +1,5 @@
 <h1 align='center'>
-    Hi folks! I'm <a href="https://twitter.com/cabanesdev">Mark</a>! 👋
+    Hi There! I'm <a href="https://twitter.com/cabanesdev">Mark</a>! 👋
 </h1>
 
 <p align='center'>
