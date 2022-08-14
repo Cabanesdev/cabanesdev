@@ -8,9 +8,9 @@
 
 
 - 💻 I am a Software Engineer @ [allfunds](https://allfunds.com/en/)<br>
-- 🌱 I studied a degree in Computer Science<br>
-- 🔭 I’m currently working on improving my skills in Fullstack Development<br>
-- 🤔 In 2022 I hope to improve my skills developing with React, Nodejs and Rust<br>
+- 🌱 I studied a degree in Software Engineering<br>
+- 🔭 I’m currently working on improving my skills in Design patterns and software architectures<br>
+- 🤔 In 2022 I hope to improve my skills developing with Nodejs and Typescript<br>
 - 📫 How to reach me: [cabanesdev@gmail.com](mailto:cabanesdev@gmail.com)<br>
 
 
